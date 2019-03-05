@@ -15,10 +15,17 @@ import java.util.Scanner; // Scanner Importations
 
 
    // Area of Rectangle class
+
    public class Rectangle {
 
 	// Main Method in java
 	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in); // Reads from keyboard
+		
+		// Finding the Length of Rectangle
+		System.out.println("Please enter the length of the rectangle: ");
+		
 
 		
 	}
